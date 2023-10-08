@@ -1,0 +1,21 @@
+.container {
+  position: relative;
+  width: 1729px;
+  height: 1080px;
+  margin-left: 192px;
+  z-index: -100;
+}
+.container__logo {
+  position: absolute;
+  height: 100%;
+}
+.container__polygon {
+  position: absolute;
+  height: 100%;
+}
+.container__polygon2 {
+  position: relative;
+  width: 810.5px;
+  height: 932.5px;
+  margin-left: 916.5px;
+}
